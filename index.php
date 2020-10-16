@@ -20,7 +20,7 @@
     <body class="container">
         
         <?php include('mesIncPhp/header.inc.php') ?>
-        <h4><marquee behavior="scroll" direction="Left">Bienvenue sur 3ilEat ! Récuperez vos identifiants aupres du résponsable réstauration ou inscrivez vous directement</marquee></h4>
+        <h4><marquee behavior="scroll" direction="Left">Bienvenue sur 3ilEat - Récuperez vos identifiants aupres du résponsable réstauration ou inscrivez vous directement</marquee></h4>
         <h3 class="p-3 mb-2 bg-primary text-white">Identification</h3>
         <br>
         <div class="row">
