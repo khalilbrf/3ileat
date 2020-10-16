@@ -57,4 +57,4 @@ SET reponse = 'Nous aurons un nouveau stock la semaine prochaine',
 WHERE idTicket = 1;
 
 
-
+//
