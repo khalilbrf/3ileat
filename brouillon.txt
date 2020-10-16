@@ -1,0 +1,19 @@
+if(!isset($_SESSION['droit'])){
+                die("<strong>Acc�s r�serv� aux adh�rant de 3ilOrder</strong>");
+            }
+            if($_SESSION['droit'] != "Client"){
+                dir("<strong>Acc�s r�serv� aux clients</strong>");
+            }
+
+
+
+
+modifier id dans utilisateurs en idUtil
+
+
+pour supprimer un des UTILISATEURS
+
+il faut inclure le fichier connexion.php..
+il faut inclure le script de js
+il faut inclue le bouton suppression et lattribut de suppression grace a une fonction script
+il faut definir la fonction script en bas de la page qui fait appel au bon fichier de suppression

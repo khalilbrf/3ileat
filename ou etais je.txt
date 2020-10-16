@@ -1,0 +1,5 @@
+Travailler la partie repondre chez ladministrateur 
+    On met un bouton repondre a la place de supprimer et on recupere dans le script les deux id 
+    puis on les ramene au fomulaire de reponse pour que ladministrateur puisse repondre a chaque ticket
+    
+    
