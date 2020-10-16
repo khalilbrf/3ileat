@@ -25,7 +25,7 @@
         <br>
         <div class="row">
             <div class="col-6">
-                <h5 class="text-primary">3ilEATT</h5>
+                <h5 class="text-primary">3ilEAT</h5>
                 <h3>Connexion</h3>
                 <h6 class="text-secondary">Accéder à 3ilEAT</h6>
                 <form action="indexpost.php" method="post">
